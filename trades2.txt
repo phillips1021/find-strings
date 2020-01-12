@@ -1,0 +1,5 @@
+4   11:48   OFFTR   receivedTime="11:48"
+2   11:46   TRADE   legTradeIds="47,48" selectTime="11:48"
+3   11:47   OFFTR   selectTime="11:49"  receivedTime="11:48"
+1   11:45   TRADE   legTradeIds="45,46" selectTime="11:47"  receivedTime="11:40"
+
